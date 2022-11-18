@@ -11,5 +11,3 @@ git init
 git add .
 git commit -m "Insert message"
 git push <branch name> or origin main
-
-#hi there
